@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "utils.h": "c",
+        "ledex.h": "c",
+        "timeex.h": "c",
+        "math.h": "c",
+        "locale": "c",
+        "string": "c",
+        "spi.h": "c"
+    }
+}

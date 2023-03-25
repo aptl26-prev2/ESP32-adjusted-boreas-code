@@ -1,0 +1,26 @@
+
+# Created by https://www.gitignore.io/api/psoccreator
+
+### PSoCCreator ###
+# Project Settings
+*.cywrk.*
+*.cyprj.*
+
+# Generated Assets and Resources
+Doxygen/
+Debug/
+Release/
+Export/
+**/codegentemp/
+**/CortexM3/
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+
+# End of https://www.gitignore.io/api/psoccreator
+workspace_DK_ST/.settings/language.settings.xml
+workspace_DK_ST/.settings/stm32cubeide.project.prefs
